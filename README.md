@@ -41,14 +41,13 @@
    </td>
   </tr>
  </table>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MohamedAbdiaziz&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed9093882" /> </p>
+
+<p align="center"> <a href="https://twitter.com/Mohamed9093882" target="blank"><img src="https://img.shields.io/twitter/follow/Mohamed9093882?logo=twitter&style=for-the-badge" alt="Mohamed9093882" /></a> </p>
  
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbdiaziz&show_icons=true&theme=radical&locale=en&layout=compact" alt="MohamedAbdiaziz" />
 </p>
-
-<p align="center">
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdiaziz">
- </p>
  
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdiaziz&theme=highcontrast&show_icons=true&count_private=true">
