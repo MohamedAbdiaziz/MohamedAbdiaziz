@@ -20,8 +20,8 @@
 </p>
 
 <p align="center"> 
-<h3 align="left">Languages:</h3>
- <table>
+<h3  align="center">Languages:</h3>
+ <table  align="center">
   <tr><td>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    </td><td>
@@ -42,9 +42,8 @@
   </tr>
   </table>
 
-<p>Languages:</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdiaziz">
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdiaziz">
 <br/>
-<p>My GitHub Stats:</p>
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdiaziz&theme=highcontrast&show_icons=true&count_private=true">
+<p align="center">My GitHub Stats:</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdiaziz&theme=highcontrast&show_icons=true&count_private=true">
 
