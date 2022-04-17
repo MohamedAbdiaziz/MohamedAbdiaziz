@@ -6,3 +6,4 @@
 <p>Languages:</p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MohamedAbdiaziz&theme=highcontrast&show_icons=true&count_private=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdiaziz">
