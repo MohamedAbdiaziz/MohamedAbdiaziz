@@ -2,14 +2,14 @@
   <img width="400" src="https://avatars.githubusercontent.com/u/86708771?s=400&u=47f8dc9f501bddf6029c7016cb9065bce80f471e&v=4"/>    
 </p>
 <p>
-<h1 align="center">Hello I'm Mohamed Abdiaziz</h1>
+  <h1 align="center">Hello I'm Mohamed Abdiaziz</h1>
 </p>
 
 I use often this languages. 🥇
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
- 
+ </br>
  <table>
   <tr><td>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
