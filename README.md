@@ -42,7 +42,7 @@
   </tr>
   </table>
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdiaziz">
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdiaziz&color=0e75b6&style=flat">
 <br/>
 <p align="center">My GitHub Stats:</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdiaziz&theme=highcontrast&show_icons=true&count_private=true">
