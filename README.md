@@ -1,5 +1,6 @@
 <p align="center">
   <img width="400" src="https://avatars.githubusercontent.com/u/86708771?s=400&u=47f8dc9f501bddf6029c7016cb9065bce80f471e&v=4"/>    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
   <h1 align="center">Hello I'm Mohamed Abdiaziz</h1>
   <h1 align="center">🥇 A passionate developer 🥇 </h1>
 </p>
