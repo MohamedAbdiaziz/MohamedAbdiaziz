@@ -1,12 +1,8 @@
 <p align="center">
-  <img width="400" src="https://avatars.githubusercontent.com/u/86708771?s=400&u=47f8dc9f501bddf6029c7016cb9065bce80f471e&v=4"/>    
-  <br>
-  <h1 align="center">Hello I'm Mohamed Abdiaziz</h1>
+  <img width="400" src="https://wallpapercave.com/wp/wp2700091.jpg"/>    
   <div id="badges" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hello+I+am+Mohamed+Abdiaziz+wellocome+to+my+profile">
+  <img src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🥇+A+passionate+developer+🥇">
   </div>
-
-  <h1 align="center">🥇 A passionate developer 🥇 </h1>
 </p>
 
 <p align="center">
