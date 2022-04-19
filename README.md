@@ -7,7 +7,7 @@
 <p align="center">
  <a href='mailto:maxamedcabdicasiis910@gmail.com'>maxamedcabdicasiis910@gmail.com</a> </br>
  <a href='tel:+252619093882'>+252619093882</a> </br>
- <a href='https://mohaafey.ml'>mywebsite</a> </br>
+ <a href='http://mohaafey.ml/'>mywebsite</a> </br>
  <a href='https://github.com/MohamedAbdiaziz'>GitHub Profile</a> </br>
 </p>
 
