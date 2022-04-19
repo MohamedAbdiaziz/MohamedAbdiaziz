@@ -3,7 +3,7 @@
   <br>
   <h1 align="center">Hello I'm Mohamed Abdiaziz</h1>
   <div id="badges" align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hello+I+am+Mohamed+Abdiaziz+wellocome+to+my+profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hello+I+am+Mohamed+Abdiaziz+wellocome+to+my+profile)(https://git.io/typing-svg)]
   </div>
 
   <h1 align="center">🥇 A passionate developer 🥇 </h1>
