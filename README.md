@@ -1,7 +1,7 @@
 <p align="center">
   <img width="400" src="https://wallpapercave.com/wp/wp2700091.jpg"/>    
   <div id="badges" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🥇+A+passionate+developer+🥇">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🥇+A+passionate+developer+🥇">
   </div>
 </p>
 
