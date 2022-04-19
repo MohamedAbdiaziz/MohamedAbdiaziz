@@ -32,7 +32,7 @@
    </td><td>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
    </td>
-   <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+   <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="40" height="40"/> </a> 
    </td>
    <td><a href="https://visualstudio.microsoft.com/vs/features/net-development/" target="_blank" rel="noreferrer"> <img src="" alt="dotnet" width="40" height="40"/> </a>
    </td>
