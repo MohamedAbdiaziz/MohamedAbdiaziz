@@ -42,6 +42,8 @@
    </td>
     <td><a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="css3" width="40" height="40"/> </a> 
    </td>
+    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
+   </td>
   </tr>
  </table>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MohamedAbdiaziz&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed9093882" /> </p>
