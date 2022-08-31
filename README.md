@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/Mohamed9093882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohamed9093882" height="30" width="40" /></a>
 <a href="https://www.facebook.com/maxamed.cabdicasiis.9210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed9093882" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maxamed9093882/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohamed9093882" height="30" width="40" /></a>
 <a href=" https://wa.me/252619093882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="barocoding" height="30" width="40" /></a>
