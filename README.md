@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
- <a href='mailto:maxamedcabdicasiis910@gmail.com'>maxamedcabdicasiis910@gmail.com</a> </br>
- <a href='tel:+252619093882'>+252619093882</a> </br>
- <a href='http://mohaafey.ml/'>mywebsite</a> </br>
+ <a href='mailto:maxamedcabdicasiis910@yahoo.com'>Mail address</a> </br>
+ <a href='tel:+252619093882'>Phone Number</a> </br>
+ <a href='http://mohaafey.ml/'>My Site</a> </br>
  <a href='https://github.com/MohamedAbdiaziz'>GitHub Profile</a> </br>
 </p>
 
