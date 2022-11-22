@@ -56,6 +56,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdiaziz&theme=highcontrast&show_icons=true&count_private=true">
 </p>
 <br/>
-<a href="https://github.com/MohamedAbdiaziz/github-readme-activity-graph">
+<a href="https://github.com/MohamedAbdiaziz/">
   <img alt="MohamedAbdiaziz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohamedAbdiaziz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
