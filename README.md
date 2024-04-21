@@ -57,5 +57,5 @@
 </p>
 <br/>
 <a href="https://github.com/MohamedAbdiaziz/">
-  <img alt="MohamedAbdiaziz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohamedAbdiaziz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img alt="MohamedAbdiaziz's Activity Graph" src="https://raw.githubusercontent.com/MohamedAbdiaziz/MohamedAbdiaziz/output/github-contribution-grid-snake.svg" />
 </a>
