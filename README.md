@@ -4,6 +4,9 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🥇+I'm+Mohamed+Abdiaziz+🥇">
   </div>
 </p>
+<a href="https://github.com/MohamedAbdiaziz/">
+  <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+</a>
 
 <p align="center">
  <a href='mailto:maxamedcabdicasiis910@yahoo.com'>Mail address</a> </br>
@@ -56,6 +59,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdiaziz&theme=highcontrast&show_icons=true&count_private=true">
 </p>
 <br/>
-<a href="https://github.com/MohamedAbdiaziz/">
-  <img align="center" src="https://raw.githubusercontent.com/MohamedAbdiaziz/MohamedAbdiaziz/snake/github-snake.svg">
-</a>
+
