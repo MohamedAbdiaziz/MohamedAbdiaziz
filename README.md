@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MATLAB**
 
-- 💬 Ask me about **PHP & JAVA**
+- 💬 Ask me about **PHP & Python**
 
 - 📫 How to reach me **maxamedcabdicasiis910@gmail.com**
 </p>
