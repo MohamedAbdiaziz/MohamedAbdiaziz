@@ -8,10 +8,17 @@
   <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 </a>
 
+
 <p align="center">
- <a href='mailto:maxamedcabdicasiis910@yahoo.com'>Mail address</a> </br>
- <a href='http://mohaafey.ml/'>My Site</a> </br>
- <a href='https://github.com/MohamedAbdiaziz'>GitHub Profile</a> </br>
+ <h3 align="center">A passionate software developer from the Somalia</h3>
+
+- 🔭 I’m currently working on Private Project [Optical Shop](https://github.com/MohamedAbdiaziz/OSMS-Shop-place)
+
+- 🌱 I’m currently learning **MATLAB**
+
+- 💬 Ask me about **PHP & JAVA**
+
+- 📫 How to reach me **maxamedcabdicasiis910@gmail.com**
 </p>
 
 <p align="center">
