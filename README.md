@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://github.com/MohamedAbdiaziz/MohamedAbdiaziz/blob/main/Untitled-1-4-01.png">
+  <a href="https://github.com/MohamedAbdiaziz/">
+  <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+  </a>
   <div id="badges" align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🥇+I'm+Mohamed+Abdiaziz+🥇">
   </div>
 </p>
-<a href="https://github.com/MohamedAbdiaziz/">
-  <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
-</a>
+
 
 
 <p align="center">
