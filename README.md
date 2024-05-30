@@ -12,7 +12,7 @@
 <p align="center">
  <h3 align="center">A passionate software developer from the Somalia</h3>
 
-- 🔭 I’m currently working on Private Project [Optical Shop](https://github.com/MohamedAbdiaziz/OSMS-Shop-place)
+- 🔭 I’m currently working on [Optical Shop](https://github.com/MohamedAbdiaziz/OSMS-Shop-place)
 
 - 🌱 I’m currently learning **MATLAB**
 
