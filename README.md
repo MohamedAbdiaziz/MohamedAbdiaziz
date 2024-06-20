@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/MohamedAbdiaziz/MohamedAbdiaziz/blob/main/Untitled-1-4-01.png">
-  <a href="https://github.com/MohamedAbdiaziz/">
-  <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
-  </a>
+  
   <div id="badges" align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🥇+I'm+Mohamed+Abdiaziz+🥇">
   </div>
@@ -59,6 +57,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MohamedAbdiaziz&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed9093882" /> </p>
 
 <p align="center"> <a href="https://www.youtube.com/channel/UCFVcQBqnRFompUQlYmpT2kQ" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCFVcQBqnRFompUQlYmpT2kQ?style=social" alt="UCFVcQBqnRFompUQlYmpT2kQ" /></a> </p>
+<a href="https://github.com/MohamedAbdiaziz/">
+  <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+  </a>
  
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbdiaziz&show_icons=true&theme=radical&locale=en&layout=compact" alt="MohamedAbdiaziz" />
