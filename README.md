@@ -114,6 +114,11 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Networking" width="40" height="40"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
