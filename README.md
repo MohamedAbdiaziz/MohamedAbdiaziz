@@ -74,7 +74,7 @@
     </td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+        <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
