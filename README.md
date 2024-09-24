@@ -96,7 +96,7 @@
     </td>
     <td align="center">
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+        <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Photoshop" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
