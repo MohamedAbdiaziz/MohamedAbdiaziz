@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MohamedAbdiaziz/MohamedAbdiaziz/blob/main/Untitled-1-4-01.png">
+  <img width="100" height="100" src="https://github.com/MohamedAbdiaziz/MohamedAbdiaziz/blob/main/Untitled-1-4-01.png">
   
   <div id="badges" align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🥇+I'm+Mohamed+Abdiaziz+🥇">
