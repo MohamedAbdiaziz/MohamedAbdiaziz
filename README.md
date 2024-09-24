@@ -29,7 +29,7 @@
 </p>
 
 <p align="center"> 
-<h3 align="center">Skills:</h3>
+<h3 align="center">Languages, Tools & Skills:</h3>
 <table align="center">
   <tr>
     <td align="center">
