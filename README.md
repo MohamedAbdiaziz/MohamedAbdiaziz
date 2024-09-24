@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Optical Shop project](https://github.com/MohamedAbdiaziz/OSMS-Shop-place)
 
-- 🌱 I’m currently learning **MATLAB**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **PHP & Python**
 
@@ -121,7 +121,7 @@
     </td>
     <td align="center">
       <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightbulb/lightbulb-original.svg" alt="Problem Solving" width="40" height="40"/>
+        <img src="https://th.bing.com/th/id/R.02fca673d55dd689a1ebb94d00db7602?rik=kP9paAM1XGd%2fVQ&riu=http%3a%2f%2fstatic.independent.co.uk%2fs3fs-public%2fstyles%2fstory_large%2fpublic%2fthumbnails%2fimage%2f2016%2f01%2f11%2f17%2f15-light-bulb-rex.jpg&ehk=xCpy8HzH7fnaiUHyBgEeLwrnUIAiwUAaBOKXQ%2foaShg%3d&risl=&pid=ImgRaw&r=0" alt="Problem Solving" width="40" height="40"/>
       </a>
       <p>Problem Solving</p>
     </td>
