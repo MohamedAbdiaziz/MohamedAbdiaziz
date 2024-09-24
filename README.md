@@ -111,7 +111,7 @@
     </td>
     <td align="center">
       <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="Networking" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Networking" width="40" height="40"/>
       </a>
     </td>
   </tr>
