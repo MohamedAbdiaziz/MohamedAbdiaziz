@@ -20,7 +20,7 @@
 
 <p align="center">  
   <a href="https://www.instagram.com/maxamed9093882/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mohamed9093882" height="30" width="40" /></a>
-  <a href="https://t.me/Mohamed_Abdiaziiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="barocoding" height="30" width="40" /></a>
+  <a href="https://t.me/Mohamed_Abdiaziiz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Mohamed_Abdiaziiz" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mohamed-hassan-6498a2259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="5NaT3QCeS9" height="30" width="40" /></a>
   
 </p>
