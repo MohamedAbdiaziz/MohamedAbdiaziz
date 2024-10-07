@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Optical Shop project](https://github.com/MohamedAbdiaziz/OSMS-Shop-place)
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **PHP & Python**
 
