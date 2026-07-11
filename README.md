@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hassan-6498a2259/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-abdiaziz-6498a2259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maxamedcabdicasiis910@gmail.com">
@@ -18,7 +18,7 @@
   <a href="https://t.me/Mohamed_Abdiaziiz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/maxamed9093882/" target="_blank">
+  <a href="https://www.instagram.com/mohabdi882/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
